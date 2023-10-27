@@ -1,0 +1,23 @@
+{
+  "sku": "030-001-00009",
+  "type": "computer equipment",
+  "subtype": "computer accessories",
+  "name": "Map Box Insert (Blank)",
+  "mfr": "",
+  "cost": 30,
+  "mass": 0,
+  "size": 1,
+  "techLevel": 11,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->A blank insert for a map box that can contain the data for a single world.<!-- Summary End --></p>",
+  "categories": ["computers", "computer accessories"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "computers", "computer accessories"]
+}

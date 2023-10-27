@@ -1,0 +1,31 @@
+{
+  "sku": "200-002-00052",
+  "type": "weapons",
+  "subtype": "handguns",
+  "name": "Laser Pistol, Disposable, Alternate (AltDLP-14)",
+  "mfr": "",
+  "cost": 660,
+  "mass": 1.3,
+  "size": "",
+  "techLevel": 14,
+  "qrebs": "R=3",
+  "damage": "Pen-2, Burn-5",
+  "image": "/img/products/laser-pistol.png",
+  "description": "<p><!-- Summary Start -->Alternate version of the disposable laser pistol.<!-- Summary End --> This weapon fires a coherent beam of photons. This version is constructed of relatively inexpensive materials and has a working lifetime measured in days.</p>",
+  "stats": [],
+  "accessories": ["200-011-00001", "200-011-00002", "200-011-00003", "200-011-00004", "200-011-00005", "200-010-00143"],
+  "categories": ["weapons", "handguns", "pistol"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 1 : Characters and Combat",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    },
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "weapons", "handguns", "pistol"]
+}

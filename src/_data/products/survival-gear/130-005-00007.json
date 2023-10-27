@@ -1,0 +1,23 @@
+{
+  "sku": "130-005-00007",
+  "type": "protections",
+  "subtype": "survival gear",
+  "name": "Restraints",
+  "mfr": "",
+  "cost": 25,
+  "mass": 0.3,
+  "size": 3,
+  "techLevel": 3,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->Handcuffs, manipulator buffs, binders, or similar. Prevents use of hands/manipulators by a captive.<!-- Summary End --></p>",
+  "categories": ["protections", "survival gear"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "protections", "survival gear"]
+}

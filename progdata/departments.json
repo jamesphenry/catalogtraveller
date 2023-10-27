@@ -1,0 +1,303 @@
+[
+  {
+    "id": "010-000",
+    "label": "Breathing Apparatus",
+    "shortLabel": "Breath Apps",
+    "description": "Filter masks, rebreathers, air tanks.",
+    "datadir": "src/_data/products/breathing-apparatus"
+  },
+  {
+    "id": "020-000",
+    "label": "Communications Gear",
+    "shortLabel": "Comms Gear",
+    "description": "Telecommunication equipment.",
+    "datadir": "src/_data/products/communications-gear"
+  },
+  {
+    "id": "030-000",
+    "label": "Computers",
+    "shortlabel": "Computers",
+    "description": "Devices that provide the ability to store and process information.",
+    "datadir": "src/_data/products/computers"
+  },
+  {
+    "id": "030-001",
+    "label": "Computer Accessories",
+    "shortLabel": "Comp. Acc.",
+    "datadir": "src/_data/products/computer-accessories",
+    "description": "A collection of computer accessories."
+  },
+  {
+    "id": "040-000",
+    "label": "Construction Equipment",
+    "shortLabel": "Constr.",
+    "description": "Tools used for construction",
+    "datadir": "src/_data/products/construction-equipment"
+  },
+  {
+    "id": "040-001",
+    "label": "Construction Materials",
+    "shortLabel": "Constr. Matls.",
+    "description": "Construction materials for the creation of a variety of structures and equipment.",
+    "datadir": "src/_data/products/construction-materials"
+  },
+  {
+    "id": "050-000",
+    "label": "Containers",
+    "shortLabel": "Containers",
+    "description": "Containers for solids, liquids, etc.",
+    "datadir": "src/_data/products/containers"
+  },
+  {
+    "id": "060-000",
+    "label": "Detectors",
+    "shortLabel": "Detectors",
+    "description": "A collection of equipment to enhance the sophont's senses.",
+    "datadir": "src/_data/products/detectors"
+  },
+  {
+    "id": "070-000",
+    "label": "Emitters",
+    "shortLabel": "Emitters",
+    "description": "Electronic devices capable of transmitting a signal.",
+    "datadir": "src/_data/products/emitters"
+  },
+  {
+    "id": "080-000",
+    "label": "Explosives",
+    "shortLabel": "Explosives",
+    "description": "Reactive substances that can be made to explode.",
+    "datadir": "src/_data/products/explosives"
+  },
+  {
+    "id": "090-000",
+    "label": "Food and Drinks",
+    "shortLabel": "Food and Drinks",
+    "description": "A variety of food and beverage items.",
+    "datadir": "src/_data/products/food-and-drinks"
+  },
+  {
+    "id": "100-000",
+    "label": "Medical, Drugs",
+    "shortLabel": "Medical",
+    "description": "Prescription pharmaceuticals, Medical equipment.",
+    "datadir": "src/_data/products/medical-drugs"
+  },
+  {
+    "id": "110-000",
+    "label": "Non-Breathing Gases",
+    "shortLabel": "Non-Breath. Gases",
+    "description": "non-breathable gases (fuel, noble gases, etc.)",
+    "datadir": "src/_data/products/non-breathing-gas"
+  },
+  {
+    "id": "120-000",
+    "label": "Power Supplies",
+    "shortLabel": "Pwr Supp.",
+    "description": "Devices that provide power.",
+    "datadir": "src/_data/products/power-supplies"
+  },
+  {
+    "id": "130-000",
+    "label": "Armor",
+    "shortLabel": "Armor",
+    "description": "Protective gear designed for the dangerous environment of combat.",
+    "datadir": "src/_data/products/armor"
+  },
+  {
+    "id": "130-001",
+    "label": "Dress",
+    "shortLabel": "Dress",
+    "description": "A collection of powered military-style armor",
+    "datadir": "src/_data/products/dress"
+  },
+  {
+    "id": "130-002",
+    "label": "Suits",
+    "shortLabel": "Suits",
+    "description": "A collection of unpowered morphic coverings.",
+    "datadir": "src/_data/products/suits"
+  },
+  {
+    "id": "130-003",
+    "label": "Units",
+    "shortLabel": "Units",
+    "description": "A collection  of non-morphic protections.",
+    "datadir": "src/_data/products/units"
+  },
+  {
+    "id": "130-004",
+    "label": "Cyberware",
+    "shortLabel": "Cyberware",
+    "description": "Embeddable prosthetics.",
+    "datadir": "src/_data/products/cyberware"
+  },
+  {
+    "id": "130-005",
+    "label": "Survival Gear",
+    "shortLabel": "Surv. Gear",
+    "description": "Various pieces of survival gear",
+    "datadir": "src/_data/products/survival-gear"
+  },
+  {
+    "id": "140-000",
+    "label": "Robots",
+    "shortLabel": "Robots",
+    "description": "A collection of autonomous and semi-autonomous machines.",
+    "datadir": "src/_data/products/robots"
+  },
+  {
+    "id": "140-001",
+    "label": "Automatons",
+    "shortLabel": "Automatons",
+    "description": "Sophont-like machines that perform a specific function.",
+    "datadir": "src/_data/products/automatons"
+  },
+  {
+    "id": "140-002",
+    "label": "Drones",
+    "shortLabel": "Drones",
+    "description": "Autonomous or semi-autonomous vehicles.",
+    "datadir": "src/_data/products/drones"
+  },
+  {
+    "id": "140-003",
+    "label": "Strangeforms",
+    "shortLabel": "Strangeforms",
+    "description": "Oddly shaped autonomous and semi-autonomous machines.",
+    "datadir": "src/_data/products/strangeforms"
+  },
+  {
+    "id": "150-000",
+    "label": "Structures, Shelters",
+    "shortLabel": "Structures",
+    "description": "Permanent and temporary structures",
+    "datadir": "src/_data/products/structures-shelters"
+  },
+  {
+    "id": "160-000",
+    "label": "Surface Gear",
+    "shortLabel": "Surf. Gear",
+    "Description": "Cables, surface gear, etc.",
+    "datadir": "src/_data/products/surface-gear"
+  },
+  {
+    "id": "170-000",
+    "label": "Toolkits",
+    "shortLabel": "Toolkits",
+    "description": "A collection of toolkits.",
+    "datadir": "src/_data/products/toolkits"
+  },
+  {
+    "id": "180-000",
+    "label": "Vehicles",
+    "shortLabel": "Vehicles",
+    "description": "A collection of vehicles.",
+    "datadir": "src/_data/products/vehicles"
+  },
+  {
+    "id": "180-001",
+    "label": "Small Craft",
+    "shortLabel": "Sm Craft",
+    "description": "All manner of small support craft.",
+    "datadir": "src/_data/products/small-craft"
+  },
+  {
+    "id": "180-002",
+    "label": "Space Craft",
+    "shortLabel": "Spc Crft",
+    "description": "Space-going vessels.",
+    "datadir": "src/_data/products/spacecraft"
+  },
+  {
+    "id": "190-000",
+    "label": "Uniques & Valuata",
+    "shortLabel": "Uniques",
+    "description": "Unique and valuable items.",
+    "datadir": "src/_data/products/uniques-valuata"
+  },
+  {
+    "id": "200-000",
+    "label": "Melee Weapons",
+    "shortLabel": "Melee Wpns",
+    "description": "A collection of clubs and other miscellaneous melee weapons",
+    "datadir": "src/_data/products/melee-weapons"
+  },
+  {
+    "id": "200-001",
+    "label": "Blades",
+    "shortLabel": "Blades",
+    "description": "A collection of bladed weapons",
+    "datadir": "src/_data/products/blades"
+  },
+  {
+    "id": "200-002",
+    "label": "Handguns",
+    "shortLabel": "Handguns",
+    "description": "A collection of pistols and revolvers",
+    "datadir": "src/_data/products/handguns"
+  },
+  {
+    "id": "200-003",
+    "label": "Shotguns",
+    "shortLabel": "Shotguns",
+    "description": "A collection of shotguns",
+    "datadir": "src/_data/products/shotguns"
+  },
+  {
+    "id": "200-004",
+    "label": "Machineguns",
+    "shortLabel": "Machineguns",
+    "description": "A collection of automatic rifles",
+    "datadir": "src/_data/products/machineguns"
+  },
+  {
+    "id": "200-005",
+    "label": "Long Guns",
+    "shortLabel": "Long Guns",
+    "description": "A collection of rifles and carbines",
+    "datadir": "src/_data/products/long-guns"
+  },
+  {
+    "id": "200-006",
+    "label": "Heavy Weapons",
+    "shortLabel": "Hvy Wpns",
+    "description": "A collection of cannons, autocannons, gatling guns, and guns",
+    "datadir": "src/_data/products/heavy-weapons"
+  },
+  {
+    "id": "200-007",
+    "label": "Launchers",
+    "shortLabel": "Launchers",
+    "description": "A collection of launchers",
+    "datadir": "src/_data/products/launchers"
+  },
+  {
+    "id": "200-008",
+    "label": "Projectors",
+    "shortLabel": "Projectors",
+    "description": "A collection of projectors",
+    "datadir": "src/_data/products/projectors"
+  },
+  {
+    "id": "200-009",
+    "label": "Designators",
+    "shortLabel": "Designators",
+    "description": "A collection of target designators",
+    "datadir": "src/_data/products/designators"
+  },
+  {
+    "id": "200-010",
+    "label": "Ammunition",
+    "shortLabel": "Ammunition",
+    "description": "Ammunition/ordnance for projectile weapons",
+    "datadir": "src/_data/products/ammunition"
+  },
+  {
+    "id": "200-011",
+    "label": "Weapon Accessories",
+    "shortLabel": "Wpn Access.",
+    "description": "Accessories, optics, etc.",
+    "datadir": "src/_data/products/weapon-accessories"
+  }
+]

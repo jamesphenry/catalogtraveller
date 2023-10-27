@@ -1,0 +1,26 @@
+{
+  "sku": "200-011-00008",
+  "type": "weapons",
+  "subtype": "weapon accessory",
+  "name": "15mm Shotgun Magazine (Single)",
+  "mfr": "",
+  "cost": 25,
+  "mass": 0.17,
+  "techLevel": 6,
+  "qrebs": "",
+  "image": "/img/products/200-011-00008.png",
+  "variants": [
+    { "sku": "200-011-00008", "label": "Single" },
+    { "sku": "200-011-00009", "label": "Double" }
+  ],
+  "description": "<p><!-- Summary Start -->15mm shotgun single magazine.<!-- Summary End --></p>",
+  "categories": ["weapons", "weapon accessory"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "weapons", "weapon accessory"]
+}

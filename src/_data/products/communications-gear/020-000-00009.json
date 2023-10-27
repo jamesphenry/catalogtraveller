@@ -1,0 +1,24 @@
+{
+  "sku": "020-000-00009",
+  "type": "communications gear",
+  "subtype": "",
+  "name": "Radio",
+  "mfr": "",
+  "cost": 100,
+  "mass": 1.5,
+  "size": 2,
+  "techLevel": 7,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->A walkie-talkie or cell-based broadcast communicator with a 5km range.<!-- Summary End --> This device is incapable of beamcast mode.</p>",
+  "accessories": [],
+  "categories": ["communications"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "communications"]
+}

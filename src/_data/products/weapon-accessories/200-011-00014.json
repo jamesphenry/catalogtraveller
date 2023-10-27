@@ -1,0 +1,28 @@
+{
+  "sku": "200-011-00014",
+  "type": "weapons",
+  "subtype": "weapon accessory",
+  "name": "6mm Assault Rifle Magazine (10-round)",
+  "mfr": "",
+  "cost": 20,
+  "mass": 0.34,
+  "techLevel": 6,
+  "qrebs": "",
+  "image": "/img/products/200-011-00014.png",
+  "variants": [
+    { "sku": "200-011-00014", "label": "10-Rnd" },
+    { "sku": "200-011-00015", "label": "20-Rnd" },
+    { "sku": "200-011-00016", "label": "30-Rnd" },
+    { "sku": "200-011-00017", "label": "30-Rnd Variant" }
+  ],
+  "description": "<p><!-- Summary Start -->6mm assault rifle magazine, 10 round capacity.<!-- Summary End --></p>",
+  "categories": ["weapons", "weapon accessory"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "weapons", "weapon accessory"]
+}

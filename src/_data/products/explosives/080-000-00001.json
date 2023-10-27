@@ -1,0 +1,50 @@
+{
+  "sku": "080-000-00001",
+  "type": "explosives",
+  "subtype": "",
+  "name": "Breaching Charge",
+  "mfr": "",
+  "cost": 100,
+  "mass": 2,
+  "size": "2 liters",
+  "techLevel": 8,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->Breaching Charges are shaped charges of plastic explosive designed to blow man sized holes in walls.<!-- Summary End --> The charge is the size of a thick notebook; it has a self-adhesive panel on one side and an adjustable chemical time fuse on the other.</p>",
+  "accessories": ["080-000-00004"],
+  "categories": ["explosives"],
+  "sources": [
+    {
+      "publication": "Traveller Wiki : Breaching Charge",
+      "url": "https://wiki.travellerrpg.com/Breaching_Charge",
+      "authors": ["Traveller Wiki Editorial Team"],
+      "publisher": "Traveller Wiki"
+    },
+    {
+      "publication": "Challenge 25: Ships Locker",
+      "authors": ["Wiseman, Loren"],
+      "publisher": "Game Designers' Workshop"
+    },
+    {
+      "publication": "Imperial Encyclopedia",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Game Designers' Workshop"
+    },
+    {
+      "publication": "Central Supply Catalog",
+      "authors": ["Porter, Greg"],
+      "publisher": "Imperium Games"
+    },
+    {
+      "publication": "Ground Forces",
+      "authors": ["Berry, Douglas E."],
+      "publisher": "Steve Jackson Games"
+    },
+    {
+      "publication": "Guns, Gadgets and Gear",
+      "authors": ["Dougherty, Martin"],
+      "publisher": "Avenger Enterprises"
+    }
+  ],
+  "tags": ["products", "explosives"]
+}

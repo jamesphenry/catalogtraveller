@@ -1,0 +1,25 @@
+{
+  "sku": "200-001-00001",
+  "type": "weapons",
+  "subtype": "blades",
+  "name": "Vibro-Blade (V)",
+  "mfr": "",
+  "cost": 900,
+  "mass": 0.5,
+  "size": "",
+  "techLevel": 10,
+  "qrebs": "",
+  "damage": "Cuts-2, Pen-2",
+  "image": "/img/products/200-001-00001.png",
+  "description": "<p><!-- Summary Start -->The vibro-blade has an extendable blade that uses vibration for increased cutting effect.<!-- Summary End --></p>",
+  "stats": [],
+  "categories": ["weapons", "blades"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "weapons", "blades"]
+}

@@ -1,0 +1,22 @@
+{
+  "sku": "200-011-00022",
+  "type": "weapons",
+  "subtype": "weapon accessory",
+  "name": "6mm Gauss Gun Magazine (100-round)",
+  "mfr": "",
+  "cost": 30,
+  "mass": 0.35,
+  "techLevel": 6,
+  "qrebs": "",
+  "image": "/img/products/200-011-00022.png",
+  "description": "<p><!-- Summary Start -->6mm Gauss Gun Magazine, 100 round capacity with high output power cell.<!-- Summary End --></p>",
+  "categories": ["weapons", "weapon accessory"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "weapons", "weapon accessory"]
+}

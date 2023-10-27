@@ -1,0 +1,22 @@
+{
+  "sku": "010-000-00017",
+  "type": "breathing apparatus",
+  "subtype": "",
+  "name": "Respirator (TL 5)",
+  "cost": 100,
+  "mass": 1,
+  "size": 3,
+  "techLevel": 5,
+  "qrebs": "N/A",
+  "image": "/img/products/respirator.png",
+  "description": "<p><!-- Summary Start -->The respirator is a small compressor allowing breathing in Air-3 (Vthin Atmosphere).<!-- Summary End --> An alternative name is Compressor.</p>",
+  "categories": ["breathing-apparatus"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "breathing-apparatus"]
+}

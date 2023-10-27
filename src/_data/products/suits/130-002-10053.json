@@ -1,0 +1,22 @@
+{
+  "sku": "130-002-10053",
+  "type": "protections",
+  "subtype": "suits",
+  "name": "Environ Suit, Standard Disposable (StdDEnvS-11)",
+  "cost": 750,
+  "mass": 4,
+  "techLevel": 11,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->Environ suits provide protections against typical and ordinary world surface environmental threats: temperature, vacuum, light.<!-- Summary End --></p>",
+  "accessories": [],
+  "categories": ["protections", "suits"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 1 : Characters and Combat",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "protections", "suits"]
+}

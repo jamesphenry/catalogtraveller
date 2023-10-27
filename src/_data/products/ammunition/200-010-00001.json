@@ -1,0 +1,29 @@
+{
+  "sku": "200-010-00001",
+  "type": "weapons",
+  "subtype": "ammunition",
+  "name": "Artillery rounds (Cannon / Gatling / Gun)",
+  "mfr": "",
+  "cost": 8000,
+  "mass": 342.6,
+  "size": 1,
+  "techLevel": 5,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->Standard artillery ordnance. Pallet of 8 rounds.<!-- Summary End --></p>",
+  "categories": ["weapons", "ammunition"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    },
+    {
+      "publication": "Central Supply Catalog Website : Artillery rounds (Cannon / Gatling / Gun)",
+      "url": "https://trav-csc.com/products/200-010-00001",
+      "authors": ["Miller, Marc W.", "Eaglestone, Robert", "McKnight, Charles"],
+      "publisher": "Central Supply Catalog Website"
+    }
+  ],
+  "tags": ["products", "weapons", "ammunition"]
+}

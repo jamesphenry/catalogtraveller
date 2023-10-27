@@ -1,0 +1,23 @@
+{
+  "sku": "130-005-00013",
+  "type": "protections",
+  "subtype": "survival gear",
+  "name": "Water Purification Tablets",
+  "mfr": "",
+  "cost": 2,
+  "mass": 0.1,
+  "size": 1,
+  "techLevel": 7,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->Chemical purification tablets for local water.<!-- Summary End --></p>",
+  "categories": ["protections", "survival gear"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "protections", "survival gear"]
+}

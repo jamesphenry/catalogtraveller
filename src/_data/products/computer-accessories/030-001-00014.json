@@ -1,0 +1,23 @@
+{
+  "sku": "030-001-00014",
+  "type": "computer equipment",
+  "subtype": "computer accessories",
+  "name": "Xmail Wafer",
+  "mfr": "",
+  "cost": 10,
+  "mass": 0,
+  "size": 1.6,
+  "techLevel": 12,
+  "qrebs": "N/A",
+  "image": "/img/products/030-001-00014.png",
+  "description": "<p><!-- Summary Start -->A data container for carrying a single transaction or application across interstellar distances.<!-- Summary End --></p>",
+  "categories": ["computer equipment", "computer accessories"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "computer equipment", "computer accessories"]
+}

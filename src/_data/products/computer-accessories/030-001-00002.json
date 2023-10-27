@@ -1,0 +1,23 @@
+{
+  "sku": "030-001-00002",
+  "type": "computer equipment",
+  "subtype": "computer accessories",
+  "name": "Data Display (TL D)",
+  "mfr": "",
+  "cost": 100,
+  "mass": 2,
+  "size": 3.5,
+  "techLevel": 13,
+  "qrebs": "N/A",
+  "image": "",
+  "description": "<p><!-- Summary Start -->A visual display that provides a visual, tactile, and holographic interface to a computer.<!-- Summary End --></p>",
+  "categories": ["computer equipment", "computer accessories"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "computer equipment", "computer accessories"]
+}

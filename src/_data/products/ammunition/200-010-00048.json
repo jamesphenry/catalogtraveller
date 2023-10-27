@@ -1,0 +1,40 @@
+{
+  "sku": "200-010-00048",
+  "type": "weapons",
+  "subtype": "ammunition",
+  "name": "8mm Machinegun Ammunition -  7D Damage",
+  "mfr": "",
+  "cost": 700,
+  "mass": 0.95,
+  "techLevel": 6,
+  "qrebs": "N/A",
+  "image": "",
+  "variants": [
+    { "sku": "200-010-00042", "label": "1D Damage" },
+    { "sku": "200-010-00043", "label": "2D Damage" },
+    { "sku": "200-010-00044", "label": "3D Damage" },
+    { "sku": "200-010-00045", "label": "4D Damage" },
+    { "sku": "200-010-00046", "label": "5D Damage" },
+    { "sku": "200-010-00047", "label": "6D Damage" },
+    { "sku": "200-010-00048", "label": "7D Damage" },
+    { "sku": "200-010-00049", "label": "8D Damage" },
+    { "sku": "200-010-00050", "label": "9D Damage" },
+    { "sku": "200-010-00051", "label": "10D Damage" }
+  ],
+  "description": "<p><!-- Summary Start -->Standard 8mm Machinegun round, 7D damage, 100 round box.<!-- Summary End --></p>",
+  "categories": ["weapons", "ammunition"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    },
+    {
+      "publication": "Central Supply Catalog Website : 8mm Machinegun Ammunition -  7D Damage",
+      "url": "https://trav-csc.com/products/200-010-00048",
+      "authors": ["Miller, Marc W.", "Eaglestone, Robert", "McKnight, Charles"],
+      "publisher": "Central Supply Catalog Website"
+    }
+  ],
+  "tags": ["products", "weapons", "ammunition"]
+}

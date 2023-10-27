@@ -1,0 +1,24 @@
+{
+  "sku": "020-000-00001",
+  "type": "communications gear",
+  "subtype": "",
+  "name": "Communicator",
+  "mfr": "",
+  "cost": 1000,
+  "mass": 0.2,
+  "size": 2,
+  "techLevel": 8,
+  "qrebs": "N/A",
+  "image": "/img/products/personal-communicator.png",
+  "description": "<p><!-- Summary Start -->The standard communicator is a 0.2L handheld device with a 1000 km range (R=8.3)<!-- Summary End --></p>",
+  "accessories": [],
+  "categories": ["communications"],
+  "sources": [
+    {
+      "publication": "Traveller 5.10 Core Rules Book 3 : Worlds and Adventures",
+      "authors": ["Miller, Marc W."],
+      "publisher": "Far Future Enterprises"
+    }
+  ],
+  "tags": ["products", "communications"]
+}
